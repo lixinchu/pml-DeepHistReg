@@ -60,7 +60,7 @@ If you found the dataset useful please cite the appropriate publications.
 
 The software was tested on Ubuntu 18.04 LTS and Python version >=3.6.x.
 
-## Acknowledgmnets
+## Acknowledgments
 
 If you found the software useful please cite:
 * Marek Wodzinski and Henning Müller, *DeepHistReg: Unsupervised Deep Learning Registration Framework for Differently Stained Histology Samples*. Computer Methods and Programs in Biomedicine Vol. 198, January 2021. \
